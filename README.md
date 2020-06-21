@@ -5,4 +5,4 @@ No one has the time to find out a cloak and cast some spells onto it and convert
 That's why I created this thing.  
 Just run the script and you will see (actually won't be able to see yourself) magic.  
 
-##NOTE : GPU required
+## NOTE : GPU required
